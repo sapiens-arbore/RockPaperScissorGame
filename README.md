@@ -5,3 +5,4 @@ My version of a rock paper scissor simulator
 - Tēmas apraksts 2-3 teikumi.
 - Grupas biedru saraksts
 2) Repozitorijs
+Edvaards
